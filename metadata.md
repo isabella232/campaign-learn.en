@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 solution: Campaign
 product: campaign
-type: Documentation
+type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: no
