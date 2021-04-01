@@ -1,6 +1,7 @@
 ---
 cloud: Experience Cloud
 solution: Campaign
+version: v8
 product: campaign
 type: Tutorial
 mini-toc-levels: 2
