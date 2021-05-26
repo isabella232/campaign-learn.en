@@ -23,5 +23,5 @@ Learn how created dynamic content blocks and how to use them to personalize the 
 
 ## Additional Resources
 
-* [Personalize emails using personalization field](/help/send-messages/email/personalize-emails-using-personalization-fields.md)
+* [Personalize emails using personalization field](/help/content-creation/personalize-emails-using-personalization-fields.md)
 * [Create a multilingual newsletter using conditional content](help/send-messages/email/create-a-multilingual-newsletter-using-conditional-content.md)

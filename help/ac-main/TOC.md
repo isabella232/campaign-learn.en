@@ -25,7 +25,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Introduction to multi and cross campaigns](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
   + [Create multi-channel campaigns](/help/orchestrate-campaigns/multi-channel-campaigns.md)
   + [Create cross-channel campaigns](/help/orchestrate-campaigns/cross-channel-campaigns.md)
-+ Content creation {#content- creation}
++ Content creation {#content-creation}
   + Email {#email}
     + [Design and create email deliveries](/help/content-creation/design-and-create-email-deliveries.md)
     + [Configure dynamic content](/help/content-creation/configure-dynamic-content.md)
@@ -59,7 +59,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Configure and manage subscription services](/help/send-messages/configure-and-manage-subscription-services.md)
 + Process management and automation{#process-management}
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
-  + [Create recurring and continuous deliveries](help/process-management/recurring-deliveries.md)
+  + [Create recurring and continuous deliveries](/help/process-management/recurring-deliveries.md)
   + [Create a targeting workflow](/help/process-management/create-a-targeting-workflow.md)
   + [Use the update list activity to create a list with a workflow](/help/process-management/use-the-update-list-activity.md)
   + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
@@ -74,7 +74,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
-  + [Generate a descriptive analysis report](help/reporting/generate-a-descriptive-analysis-report.md)
+  + [Generate a descriptive analysis report](/help/reporting/generate-a-descriptive-analysis-report.md)
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring/audit-trail.md)
