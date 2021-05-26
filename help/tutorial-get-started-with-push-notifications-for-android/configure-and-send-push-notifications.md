@@ -19,4 +19,4 @@ Learn how to configure and send a [!DNL push] notification to users of an Androi
 
 **Previous Step**
 
-Step 2: [Configure an Android™ service and create an Android™ mobile application in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+Step 2: [Configure an Android™ service and create an Android™ mobile application in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
