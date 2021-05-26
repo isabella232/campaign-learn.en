@@ -22,4 +22,4 @@ Learn how to add a personalization field to the subject line and the content of 
 ## Additional Resources
 
 * [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Create a multilingual newsletter using conditional content](help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
+* [Create a multilingual newsletter using conditional content](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

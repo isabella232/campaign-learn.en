@@ -19,6 +19,6 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 
 ## Next Tutorials to watch
 
-* [Refine targets by combining query results](help/process-management/refine-targets-by-combining-query-results.md)
+* [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
 * [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
 * [Use the update list activity to create a list with a workflow](/help/process-management/use-the-update-list-activity.md)
