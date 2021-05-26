@@ -27,7 +27,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Create cross-channel campaigns](/help/orchestrate-campaigns/cross-channel-campaigns.md)
 + Content creation {#content-creation}
   + Email {#email}
-    + [Design and create email deliveries](/help/content-creation/design-and-create-email-deliveries.md)
+    + [Create and design email deliveries](/help/content-creation/create-and-design-email-deliveries.md)
     + [Configure dynamic content](/help/content-creation/configure-dynamic-content.md)
     + [Personalize emails using dynamic content blocks](/help/content-creation/personalize-using-dynamic-content-blocks.md)
     + [Personalize emails using personalization fields](/help/content-creation/personalize-emails-using-personalization-fields.md)
