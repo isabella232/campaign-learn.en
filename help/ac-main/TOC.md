@@ -25,7 +25,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Introduction to multi and cross campaigns](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
   + [Create multi-channel campaigns](/help/orchestrate-campaigns/multi-channel-campaigns.md)
   + [Create cross-channel campaigns](/help/orchestrate-campaigns/cross-channel-campaigns.md)
-+ Content creation {#Content creation}
++ Content creation {#content- creation}
   + Email {#email}
     + [Design and create email deliveries](/help/content-creation/design-and-create-email-deliveries.md)
     + [Configure dynamic content](/help/content-creation/configure-dynamic-content.md)
@@ -36,38 +36,37 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Configure Landing Pages](/help/content-creation/configure-landingpages.md)
 + Send messages{#sending-messages}
   + Email {#email}
-    + [Send and validate proofs for an email delivery ](/help/sending-messages/email/send-and-validate-proofs.md)
-    + [Use control groups](/help/sending-messages/email/use-control-groups.md)
-    + [Configure recurring and continuous email campaigns](/help/sending-messages/recurring-deliveries.md)
-    + [Troubleshoot email delivery issues](/help/sending-messages/email/troubleshooting-email-delivery-issues.md)
-    + [Design emails for deliverability](/help/sending-messages/email/design-emails-for-deliverability.md)
+    + [Send and validate proofs for an email delivery ](/help/send-messages/email/send-and-validate-proofs.md)
+    + [Use control groups](/help/send-messages/email/use-control-groups.md)
+    + [Troubleshoot email delivery issues](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
+    + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
-    + [Create a SMS delivery](/help/sending-messages/mobile/create-a-sms-delivery.md)
+    + [Create a SMS delivery](/help/send-messages/mobile/create-a-sms-delivery.md)
   + Push {#push}
-    + [Install the Mobile App Channel](/help/sending-messages/mobile/installing-the-mobile-app.md)
-    + [Configure the Push channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-    + [Get started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-learn/getting-started-with-push-notifications-for-android/introduction.html)
+    + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
+    + [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+    + [Get started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html)
   + Direct mail {#direct-mail}
-    + [Create direct mail deliveries](/help/sending-messages/direct-mail/create-direct-mail-deliveries.md)
+    + [Create direct mail deliveries](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
   + Use delivery templates{#using-delivery-templates}
-    + [Configure a delivery template](/help/sending-messages/use-delivery-templates/configure-a-delivery-template.md)
-    + [Set delivery template properties](/help/sending-messages/use-delivery-templates/set-delivery-template-properties.md)
-    + [Deploy an ad-hoc email delivery template](/help/sending-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+    + [Configure a delivery template](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
+    + [Set delivery template properties](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
+    + [Deploy an ad-hoc email delivery template](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
   + Fatigue Management{#fatigue-management}
-    + [Use typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-    + [Use pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-  + [Configure and manage subscription services](/help/sending-messages/configure-and-manage-subscription-services.md)
+    + [Use typology rules](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+    + [Use pre defined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+  + [Configure and manage subscription services](/help/send-messages/configure-and-manage-subscription-services.md)
 + Process management and automation{#process-management}
-  + [Create a Workflow](/help/automating-with-workflows/creating-a-workflow.md)
-  + [Create a targeting workflow](/help/process-management/create-a-targeting-workflow.md)
-  + [Refine targets by combining query results](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-  + [Refine targets by excluding query results](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+  + [Create a Workflow](/help/process-management/create-a-workflow.md)
   + [Create recurring and continuous deliveries](help/process-management/recurring-deliveries.md)
-  + [Use the update list activity to create a list with a workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
-  + [Configure validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
-  + [Configure Enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
+  + [Create a targeting workflow](/help/process-management/create-a-targeting-workflow.md)
+  + [Use the update list activity to create a list with a workflow](/help/process-management/use-the-update-list-activity.md)
+  + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
+  + [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
+  + [Create validation workflows](/help/process-management/create-validation-workflows.md) 
   + [Manage approvals](/help/process-management/manage-approvals.md)
+  + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
 + Data Management {#data-management}
   + [Import profiles](/help/data-management/import-profiles.md)
 + Connect with other solutions {#connect}

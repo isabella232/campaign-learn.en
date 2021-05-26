@@ -2,7 +2,7 @@
 title: Audit Trail
 description: Learn how to access the Audit Trail logs and which settings can be configured. 
 feature: Audit Trail
-kt: 2835
+kt: 7969
 doc-type: feature video
 activity: understand
 team: PM
@@ -12,7 +12,7 @@ level: Beginner
 
 # Audit Trail
 
-[!UICONTROL Audit Trail] captures, in real time, a comprehensive list of actions, and events occurring within Adobe Campaign. !UICONTROL Audit Trail] includes a self-serve way to access a history of data to help answer questions such as:
+[!UICONTROL Audit Trail] captures, in real time, a comprehensive list of actions, and events occurring within Adobe Campaign.[!UICONTROL Audit Trail] includes a self-serve way to access a history of data to help answer questions such as:
 
 * What happened to an object?
 * Who modified it  last and when?

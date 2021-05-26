@@ -11,7 +11,7 @@ role: Business Practitioner
 level: Beginner
 ---
 
-#  Create a multilingual newsletter using conditional content
+# Create a multilingual newsletter using conditional content
 
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied.
 
