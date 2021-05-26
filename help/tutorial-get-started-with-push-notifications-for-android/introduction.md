@@ -51,4 +51,4 @@ Now the push notification is ready to be [configured and sent](/help/tutorial-ge
 
 ## Start the tutorial
 
-Step 1: [Extend the app subscription schema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Step 1: [Extend the app subscription schema](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
