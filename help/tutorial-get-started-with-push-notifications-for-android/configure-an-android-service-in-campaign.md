@@ -19,13 +19,8 @@ Learn how to configure an [!DNL Androidâ„¢] service and create an [!DNL Androidâ
  
 **Previous Step**
 
-Step 1: [Extending the app subscription schema to personalize push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Step 1: [Extend the app subscription schema to personalize push notifications](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
 
 **Next Step**
 
-Step 3: [Configuring and sending push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
-
-## Additional resources
-
-* [Configure the Android service (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#configuring-android-service)
-* [Create an Android mobile application (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-app)
+Step 3: [Configure and sending push notifications](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)

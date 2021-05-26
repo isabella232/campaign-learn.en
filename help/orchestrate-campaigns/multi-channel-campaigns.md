@@ -23,4 +23,4 @@ Learn how to create a multi-channel campaign using email, SMS, and direct mail d
 
 ## Additional resources
 
-* [Introduction to multi-channel and cross-channel campaigns](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+* [Introduction to multi-channel and cross-channel campaigns](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

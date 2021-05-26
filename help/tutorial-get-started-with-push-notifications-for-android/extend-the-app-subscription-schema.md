@@ -19,8 +19,4 @@ Learn how to extend the [!UICONTROL app subscription] schema to be able to store
 
 **Next step**
 
-Step 2: [Configure an Android™ service and create an Android™ mobile application in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
-
-## Additional resources
-
-* [Extend built-in schema to adapt your configuration](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#extend-subscription-schema)
+Step 2: [Configure an Android™ service and create an Android™ mobile application in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)

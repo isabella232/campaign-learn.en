@@ -39,15 +39,15 @@ The following configuration steps are required:
 
 ### Step 1: Extend the app subscription schema to personalize [!DNL push] notifications
 
-To be able to personalize the [!DNL push] notification, you must first [extend the app subscription schema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md). THis allows the system to store the personalization values that are received from the app when the user subscribes to the service.
+To be able to personalize the [!DNL push] notification, you must first [extend the app subscription schema](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md). THis allows the system to store the personalization values that are received from the app when the user subscribes to the service.
 
 ### Step 2: Configure the Android™ service and create the mobile application in Campaign
 
-Next, [the Android™ service must be configures and the mobile application created in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). In this step, the [!DNL Neotrip] app is defined as the target for the push notification.
+Next, [the Android™ service must be configures and the mobile application created in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md). In this step, the [!DNL Neotrip] app is defined as the target for the push notification.
 
 ### Step 3: Configure and send the push notification
 
-Now the push notification is ready to be [configured and sent](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md).
+Now the push notification is ready to be [configured and sent](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md).
 
 ## Start the tutorial
 
