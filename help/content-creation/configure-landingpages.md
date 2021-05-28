@@ -3,7 +3,7 @@ title: Configure landing pages
 description: Learn how to navigate the web application editor by creating a preference center.
 feature: Landing Pages
 kt: 7945
-thumbnail: 25041.jpg
+thumbnail: 333629.jpg
 doc-type: feature video
 activity: setup
 team: DOC
@@ -17,4 +17,4 @@ Adobe Campaign enables you to design and host various landing pages on its serve
 
 This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12)
