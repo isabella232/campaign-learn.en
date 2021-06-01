@@ -9,6 +9,8 @@ activity: setup
 team: TM
 role: Administrator
 level: Beginner
+hide: yes
+hidefromtoc: yes
 ---
 # Installing the mobile app channel
 

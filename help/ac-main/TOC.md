@@ -46,7 +46,6 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
     + [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-    + [Get started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html)
   + Direct mail {#direct-mail}
     + [Create direct mail deliveries](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
   + Use delivery templates{#using-delivery-templates}
