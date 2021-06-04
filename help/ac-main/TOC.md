@@ -14,7 +14,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Introduction to Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
   + [Explore the Adobe Campaign user interface](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-  + [Manage Marketing Campaigns](/help/getting-started/manage-marketing-campaigns.md)
+  + [Manage marketing campaigns](/help/getting-started/manage-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
   + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
