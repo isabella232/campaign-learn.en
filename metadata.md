@@ -7,6 +7,7 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: no
+hide: yes
 ---
 
 # Metadata for internal use
