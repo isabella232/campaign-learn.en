@@ -1,5 +1,5 @@
 ---
-title: Managing marketing fatigue with pressure rules
+title: Manage fatigue using predefined filters
 description: Learn  how to implement fatigue management in Adobe Campaign by using filters.
 feature: Fatigue Management
 kt: 7958
@@ -11,7 +11,7 @@ role: Business Practitioner, Developer, Administrator
 level: Experienced
 ---
 
-# Setting up fatigue management using predefined filters
+# Manage fatigue using predefined filters
 
 Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients. 
 Learn how to implement fatigue management in Adobe Campaign by using filters.

@@ -3,7 +3,7 @@ title: Send and validate proofs
 description: Learn how to send and validate a proof for an email delivery.
 feature: Email, Proofs
 kt: 7848
-thumbnail: 330945.jpg
+thumbnail: 333404.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
@@ -14,4 +14,4 @@ level: Beginner
 
 Learn how to send and validate a proof for an email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945)
+>[!VIDEO](https://video.tv.adobe.com/v/333404)

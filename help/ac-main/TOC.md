@@ -53,8 +53,8 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
     + [Set delivery template properties](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
     + [Deploy an ad-hoc email delivery template](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
   + Fatigue Management{#fatigue-management}
-    + [Use typology rules](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-    + [Use pre defined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+    + [Typology rules](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+    + [Pre defined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
   + [Configure and manage subscription services](/help/send-messages/configure-and-manage-subscription-services.md)
 + Process management and automation{#process-management}
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
