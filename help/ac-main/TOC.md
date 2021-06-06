@@ -12,7 +12,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 + [Overview](/help/overview.md)
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-  + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+  + [Install and set up the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
   + [Explore the Adobe Campaign user interface](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
   + [Manage marketing campaigns](/help/getting-started/manage-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -42,7 +42,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
-    + [Create a SMS delivery](/help/send-messages/mobile/create-a-sms-delivery.md)
+    + [Create an SMS delivery](/help/send-messages/mobile/create-a-sms-delivery.md)
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
     + [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -51,10 +51,10 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + Use delivery templates{#using-delivery-templates}
     + [Configure a delivery template](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
     + [Set delivery template properties](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-    + [Deploy an ad-hoc email delivery template](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+    + [Deploy an ad hoc email delivery template](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
   + Fatigue Management{#fatigue-management}
     + [Typology rules](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-    + [Pre defined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+    + [Predefined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
   + [Configure and manage subscription services](/help/send-messages/configure-and-manage-subscription-services.md)
 + Process management and automation{#process-management}
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
