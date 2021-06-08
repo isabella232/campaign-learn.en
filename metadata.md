@@ -6,8 +6,7 @@ product: campaign
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
-index: no
-hide: yes
+index: yes
 ---
 
 # Metadata for internal use
