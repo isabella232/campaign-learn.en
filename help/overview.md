@@ -41,7 +41,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
       <img alt="Create and design email deliveries (video)" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Create and design email deliveries</strong>
     </a>
     </div> 
@@ -55,7 +55,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
       <img alt="Manage fatigue using typology rules (video)" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>Manage fatigue using typology rules</strong>
     </a>
     </div>
