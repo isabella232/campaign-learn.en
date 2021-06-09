@@ -1,5 +1,5 @@
 ---
-title: Design and create email deliveries
+title: Create and design email deliveries
 description: Understand the process of creating an email delivery and learn how to design and personalize email content.
 feature: Email, Email Design, Personalization
 kt: 7847
@@ -11,7 +11,7 @@ role: Business Practitioner
 level: Beginner
 ---
 
-# Design and create email deliveries 
+# Create and design email deliveries 
 
 Understand the process of creating an email delivery and learn how to design and personalize email content.
 

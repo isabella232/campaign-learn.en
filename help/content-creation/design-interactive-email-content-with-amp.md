@@ -9,6 +9,8 @@ activity: set-up
 team: TM
 role: Business Practitioner, Developer
 level: Experienced
+hide: yes
+hidefromtoc: yes
 ---
 
 # Defining Interactive Email Content with AMP
