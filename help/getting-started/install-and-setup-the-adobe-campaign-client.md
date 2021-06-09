@@ -9,6 +9,8 @@ activity: setup
 team: DOC
 role: Business Practitioner, Administrator, Developer
 level: Beginner
+hide: yes
+hidefromtoc: yes
 ---
 
 # Install and setup the Adobe Campaign Client

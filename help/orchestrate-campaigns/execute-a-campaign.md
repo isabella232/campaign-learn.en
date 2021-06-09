@@ -9,6 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+hide: yes
+hidefromtoc: yes
 ---
 
 # Execute a campaign

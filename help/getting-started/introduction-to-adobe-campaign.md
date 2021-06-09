@@ -9,6 +9,8 @@ activity: understand
 team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Beginner
+hide: yes
+hidefromtoc: yes
 ---
 
 # Introduction to Adobe Campaign V8

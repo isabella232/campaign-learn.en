@@ -9,6 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Intermediate
+hide: yes
+hidefromtoc: yes
 ---
 
 # Create event triggered campaigns

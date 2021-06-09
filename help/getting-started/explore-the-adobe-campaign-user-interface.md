@@ -9,6 +9,8 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+hide: yes
+hidefromtoc: yes
 ---
 # Explore the Adobe Campaign user interface
 

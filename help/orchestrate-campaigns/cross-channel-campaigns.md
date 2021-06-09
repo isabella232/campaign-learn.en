@@ -7,6 +7,8 @@ thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
+hide: yes
+hidefromtoc: yes
 ---
 # Create cross-channel campaigns
 
