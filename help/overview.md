@@ -64,6 +64,22 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
 </tr>
+<tr>
+</td>
+  <td>
+    <a href="./reporting/generate-a-descriptive-analysis-report.md">
+      <img alt="Generate a descriptive analysis report" src="./assets/333994.jpg" />
+    </a>
+    <div>
+      <a href="./reporting/generate-a-descriptive-analysis-report.md">
+    <strong>Generate a descriptive analysis report</strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.</em>
+    <p>
+  </td>
+
 </table>
 
 ## Additional resources

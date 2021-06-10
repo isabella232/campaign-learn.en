@@ -3,7 +3,7 @@ title: Generate a descriptive analysis report
 description: Learn how to generate a descriptive analysis report from a workflow in Adobe Campaign V8.
 feature: Reporting
 kt: 7841
-thumbnail: 35616.jpg
+thumbnail: 333994.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
@@ -15,4 +15,4 @@ level: Beginner
 
 Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12)
