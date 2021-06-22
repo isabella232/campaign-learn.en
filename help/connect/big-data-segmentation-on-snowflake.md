@@ -10,6 +10,7 @@ role: Administrator, Developer
 level: Experienced
 hide: yes
 hidefromtoc: yes
+exl-id: 0650879c-48d3-4ce0-b80a-d6411fd623bd
 ---
 # Big data management on Snowflake
 

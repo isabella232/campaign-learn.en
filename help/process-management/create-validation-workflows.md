@@ -8,8 +8,8 @@ activity: setup
 team: TM
 role: Business Practitioner
 level: Experienced
+exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 ---
-
 # Create validation workflows
 
 Adobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction, and budget approvals.

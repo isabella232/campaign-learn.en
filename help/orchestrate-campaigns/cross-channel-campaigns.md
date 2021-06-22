@@ -9,6 +9,7 @@ activity: use
 team: TM
 hide: yes
 hidefromtoc: yes
+exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
 ---
 # Create cross-channel campaigns
 

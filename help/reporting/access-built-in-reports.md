@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 11b67a60-b9f1-450e-a976-d1cca322a243
 ---
-
 # Access built-in reports
 
 Understand  built-in reporting and analysis in Adobe Campaign and learn how to generate a delivery report.

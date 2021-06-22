@@ -9,6 +9,7 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 02505628-e44c-49a8-b8ed-384ba96387c7
 ---
 # Manage marketing campaigns
 

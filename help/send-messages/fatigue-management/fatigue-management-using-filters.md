@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
+exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 ---
-
 # Manage fatigue using predefined filters
 
 Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients. 

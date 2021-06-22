@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
 ---
-
 # Create a multilingual newsletter using conditional content
 
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied.

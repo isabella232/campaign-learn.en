@@ -9,8 +9,8 @@ activity: setup
 team: DOC
 role: Developer, Administrator
 level: Beginner
+exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
 ---
-
 # Configure landing pages
 
 Adobe Campaign enables you to design and host various landing pages on its server including online surveys, preference centers, and unsubscribe pages.

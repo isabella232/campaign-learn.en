@@ -1,6 +1,6 @@
 ---
 title: Audit Trail
-description: Learn how to access the Audit Trail logs and which settings can be configured. 
+description: Learn how to access the Audit Trail logs and which settings can be configured.
 feature: Audit Trail
 kt: 7969
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: understand
 team: PM
 role: Administrator
 level: Beginner
+exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 ---
-
 # Audit Trail
 
 [!UICONTROL Audit Trail] captures, in real time, a comprehensive list of actions, and events occurring within Adobe Campaign.[!UICONTROL Audit Trail] includes a self-serve way to access a history of data to help answer questions such as:

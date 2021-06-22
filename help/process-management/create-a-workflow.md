@@ -8,8 +8,8 @@ activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 0a6e09e6-0d23-4267-ba74-39523735e83d
 ---
-
 # Create a workflow
 
 Adobe Campaign includes a workflow module that empowers you to orchestrate the full range of processes and tasks across the different modules of the application server. This comprehensive graphical environment lets you design processes including segmentation, campaign execution, file processing, human participation, and so on. The workflow engine executes and tracks these processes.

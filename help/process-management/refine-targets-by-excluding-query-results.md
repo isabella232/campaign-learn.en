@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 ---
-
 # Refine targets by excluding query results
 
 Learn how to refine your target by applying a **[!UICONTROL standard exclusion]** to a workflow. You will also learn how to create predefined filters and how to trouble shoot your workflow.

@@ -1,5 +1,5 @@
 ---
-title:  Installing the mobile app channel
+title: Installing the mobile app channel
 description: Learn how to check if the Mobile App channel is installed on your instance and how to install it.
 feature: Push
 kt: 7961
@@ -11,6 +11,7 @@ role: Administrator
 level: Beginner
 hide: yes
 hidefromtoc: yes
+exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
 ---
 # Installing the mobile app channel
 

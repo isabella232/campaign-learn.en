@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: d627a665-732a-4d75-8b50-67c9efc4e7cd
 ---
-
 # Generate a descriptive analysis report
 
 Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.

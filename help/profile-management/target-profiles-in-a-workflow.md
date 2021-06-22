@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
 ---
-
 # Target profiles in a workflow
 
 Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.

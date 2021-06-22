@@ -1,5 +1,5 @@
 ---
-title:  Configure and send push notifications 
+title: Configure and send push notifications
 description: Learn how to configure and send a push notification to Android™ app users.
 feature: Push
 kt: 7966
@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Administrator, Developer, Business Practitioner
 level: Beginner, Intermediate, Experienced
+exl-id: bef60865-9d83-46a5-ad2f-77095cb7c6a2
 ---
-
 # Configure and send push notifications  
 
 Learn how to configure and send a [!DNL push] notification to users of an Android™ application.

@@ -9,6 +9,7 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 237db54b-cd20-4136-b262-99dd94eefbb1
 ---
 # Send and validate proofs
 

@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 ---
-
 # Manage fatigue using typology rules
 
 Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients and is often applied using a typology rule.

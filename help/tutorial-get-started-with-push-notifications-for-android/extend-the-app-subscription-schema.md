@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 ---
-
 # Extending the [!UICONTROL app subscription] schema to personalize push notifications
 
 Learn how to extend the [!UICONTROL app subscription] schema to be able to store personalization values [!DNL Campaign] receives from a mobile app.

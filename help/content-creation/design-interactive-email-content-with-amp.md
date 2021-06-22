@@ -11,8 +11,8 @@ role: Business Practitioner, Developer
 level: Experienced
 hide: yes
 hidefromtoc: yes
+exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 ---
-
 # Defining Interactive Email Content with AMP
 
 AMP for Email is a new open-source format that enables developers to create dynamic and interactive emails. With modern app functionality directly available within emails, recipients can interact dynamically with content in the message itself.

@@ -8,8 +8,8 @@ activity: use
 team: TM
 role: Business Practitioner, Developer
 level: Experienced
+exl-id: 8a4653be-ae69-4c9f-aab8-dbff886ceecd
 ---
-
 # Configure enrichment activities
 
 The enrichment activity is a workflow object that adds data to the working table. Using the enrichment activity allows you to add columns to a table that store additional data or define new links to other existing data.

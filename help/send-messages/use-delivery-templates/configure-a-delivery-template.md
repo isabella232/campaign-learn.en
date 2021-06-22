@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 ---
-
 # Configure a delivery template
 
 Marketing departments produce delivery templates to standardize the creative look and feel, in order to be quicker in executing and launching campaigns.

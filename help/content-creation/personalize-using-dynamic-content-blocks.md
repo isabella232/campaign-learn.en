@@ -3,14 +3,14 @@ title: Personalize emails using dynamic content blocks
 description: Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
 feature: Dynamic Content
 kt: 7941
-thumbnail: 24924 
+thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
 role: Administrator, Developer
 level: Beginner
+exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
 ---
-
 # Personalize emails using dynamic content blocks
 
 In Adobe Campaign, you can personalize content or the appearance of messages and combine them with criteria from recipient profiles.
