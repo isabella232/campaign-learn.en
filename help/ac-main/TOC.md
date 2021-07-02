@@ -70,7 +70,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Import profiles](/help/data-management/import-profiles.md)
 + Connect with other solutions {#connect}
   + [Big data management on Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
-  + [Data replication](help/data-management/data-replication.md)
+  + [Data replication](/help/data-management/data-replication.md)
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
