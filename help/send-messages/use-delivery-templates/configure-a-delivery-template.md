@@ -9,7 +9,8 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
-exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
+hide: yes
+hidefromtoc: yes
 ---
 # Configure a delivery template
 
