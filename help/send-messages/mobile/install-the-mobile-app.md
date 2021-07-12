@@ -7,7 +7,7 @@ thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 hide: yes
 hidefromtoc: yes

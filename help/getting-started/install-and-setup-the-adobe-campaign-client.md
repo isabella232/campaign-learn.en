@@ -7,7 +7,7 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 hide: yes
 hidefromtoc: yes

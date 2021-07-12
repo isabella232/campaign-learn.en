@@ -6,7 +6,7 @@ kt: 7960
 doc-type: feature video
 activity: setup
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 hide: yes
 hidefromtoc: yes

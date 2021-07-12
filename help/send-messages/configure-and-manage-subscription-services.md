@@ -7,7 +7,7 @@ thumbnail: 334305.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Experienced
 ---
 # Configure and manage subscription services

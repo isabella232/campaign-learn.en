@@ -6,7 +6,7 @@ kt: 7989
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 0a6e09e6-0d23-4267-ba74-39523735e83d
 ---

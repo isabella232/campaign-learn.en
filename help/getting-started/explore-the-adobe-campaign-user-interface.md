@@ -7,7 +7,7 @@ thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 hide: yes
 hidefromtoc: yes

@@ -6,7 +6,7 @@ kt: 7976
 thumbnail: 334460.jpg
 doc-type: feature video
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Advanced
 hide: yes
 hidefromtoc: yes

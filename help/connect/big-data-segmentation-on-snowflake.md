@@ -6,7 +6,7 @@ kt: 7780
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 hide: yes
 hidefromtoc: yes

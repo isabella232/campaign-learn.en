@@ -7,7 +7,7 @@ thumbnail: 334300.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Target profiles in a workflow

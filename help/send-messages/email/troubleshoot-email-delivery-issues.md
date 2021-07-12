@@ -7,7 +7,7 @@ thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
 ---

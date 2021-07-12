@@ -7,7 +7,7 @@ thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Intermediate
 hide: yes
 hidefromtoc: yes

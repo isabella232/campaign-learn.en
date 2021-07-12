@@ -7,7 +7,7 @@ thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 570465ac-cfe9-4ef5-8bc9-6776762830b1
 ---
