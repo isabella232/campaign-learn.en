@@ -42,7 +42,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS {#sms}
-    + [Create an SMS delivery](/help/send-messages/mobile/create-a-sms-delivery.md)
+    + [Create a SMS delivery](/help/send-messages/mobile/create-a-sms-delivery.md)
   + Push {#push}
     + [Install the Mobile App Channel](/help/send-messages/mobile/install-the-mobile-app.md)
     + [Configure the Push channel using the Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
