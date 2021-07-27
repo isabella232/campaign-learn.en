@@ -10,13 +10,13 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 # Adobe Campaign V8 Tutorials {#tutorials}
 
 + [Overview](/help/overview.md)
-+ Getting Started {#getting-started}
-  + [Introduction to Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-  + [Install and set up the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-  + [Explore the Adobe Campaign user interface](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-  + [Manage marketing campaigns](/help/getting-started/manage-marketing-campaigns.md)
-  + [Create a marketing plan, programs, and campaigns](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-  + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
++ Get Started {#getting-started}
+  + [Introduction to Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+  + [Install and set up the Adobe Campaign client](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+  + [Explore the Adobe Campaign user interface](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+  + [Manage marketing campaigns](/help/get-started/manage-marketing-campaigns.md)
+  + [Create a marketing plan, programs, and campaigns](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+  + [Create event triggered campaigns](/help/get-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
   + [Target profiles in a workflow](/help/profile-management/target-profiles-in-a-workflow.md)
