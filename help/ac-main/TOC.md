@@ -59,12 +59,12 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 + Process management and automation{#process-management}
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
   + [Create recurring and continuous deliveries](/help/process-management/recurring-deliveries.md)
-  + [Create a targeting workflow](/help/process-management/create-a-targeting-workflow.md)
-  + [Use the update list activity to create a list with a workflow](/help/process-management/use-the-update-list-activity.md)
+  + [Create targeting workflows](/help/process-management/create-a-targeting-workflow.md)
   + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
   + [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
   + [Create validation workflows](/help/process-management/create-validation-workflows.md) 
   + [Manage approvals](/help/process-management/manage-approvals.md)
+  + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
 + Data Management {#data-management}
   + [Import profiles](/help/data-management/import-profiles.md)
