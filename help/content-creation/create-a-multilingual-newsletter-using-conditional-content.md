@@ -3,7 +3,7 @@ title: Create a multilingual newsletter using conditional content
 description: Learn how to add conditional content to a delivery on the example of a multilingual newsletter.
 feature: Dynamic Content
 kt: 7792
-thumbnail: 24926.jpg
+thumbnail: 335682.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -17,7 +17,7 @@ By configuring conditional content fields, you can create advanced personalizati
 
 Learn how to add conditional content to a delivery on the example of a multilingual newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
 
 ## Additional Resources
 
