@@ -3,21 +3,18 @@ title: Configure dynamic content
 description: Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
 feature: Dynamic Content, Personalization, Email
 kt: 7789
-thumbnail: 329936.jpg
+thumbnail: 335734.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
-exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-hide: yes
-hidefromtoc: yes
 ---
 # Configure dynamic content
 
 Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
 
 ## Additional Resources
 
