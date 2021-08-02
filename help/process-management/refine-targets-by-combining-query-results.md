@@ -1,6 +1,6 @@
 ---
 title: Refine targets by combining query results
-description: Learn how to refine your target by combining query results in a workflow using the intersection or the union activities.
+description: Learn how to refine your target by using intersection or union activities to combine query results in a workflow.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 7844
 thumbnail: 334304.jpg
@@ -13,7 +13,7 @@ exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 ---
 # Refine targets by combining query results
 
-Learn how to refine your target by combining query results in a workflow using the **[!UICONTROL intersection]** or the **[!UICONTROL union]** activities.
+Learn how to refine your target by using intersection or union activities to combine query results in a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
