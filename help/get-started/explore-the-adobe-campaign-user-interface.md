@@ -1,6 +1,6 @@
 ---
 title: Explore the Adobe Campaign user interface
-description: Get to know the Adobe Campaign user interface and learn you how to navigate the main functionality.
+description: Learn about the Adobe Campaign V8 user interface and how to navigate the main features.
 feature: Overview
 kt: 7828
 thumbnail: 334496.jpg
@@ -12,6 +12,6 @@ level: Beginner
 ---
 # Explore the Adobe Campaign user interface
 
-Get to know the Adobe Campaign user interface and learn you how to navigate the main functionality.
+Learn about the Adobe Campaign V8 user interface and how to navigate the main features.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12)
