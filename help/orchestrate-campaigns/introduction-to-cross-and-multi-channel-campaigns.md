@@ -1,6 +1,6 @@
 ---
 title: Introduction to multi-channel and cross-channel campaigns
-description: Understand the difference between multi-channel and cross-channel campaign and what the use cases for multi-channel and cross-channel campaigns are.
+description: Understand the difference between multi-channel and cross-channel campaigns and the use cases.
 feature: Workflows
 kt: 7796
 thumbnail: 335610.jpg
@@ -11,7 +11,7 @@ exl-id: f7391930-f712-408a-8933-3225d10864e7
 ---
 # Introduction to multi-channel and cross-channel campaigns
 
-Understand the difference between multi-channel and cross-channel campaign and what the use cases for multi-channel and cross-channel campaigns are.
+Understand the difference between multi-channel and cross-channel campaigns and the use cases.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12)
 
