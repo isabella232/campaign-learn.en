@@ -17,10 +17,10 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Manage marketing campaigns](/help/get-started/manage-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
   + [Create event triggered campaigns](/help/get-started/create-event-triggered-campaigns.md)
-+ Profile Management {#profile-management}
++ Profile management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
   + [Target profiles in a workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campaign Orchestration {#campaign-orchestration}
++ Campaign orchestration {#campaign-orchestration}
   + [Execute a campaign](/help/orchestrate-campaigns/execute-a-campaign.md)
   + [Introduction to multi and cross campaigns](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
   + [Create multi-channel campaigns](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -52,7 +52,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
     + [Configure a delivery template](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
     + [Set delivery template properties](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
     + [Deploy an ad hoc email delivery template](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-  + Fatigue Management{#fatigue-management}
+  + Fatigue management{#fatigue-management}
     + [Typology rules](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Predefined filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
   + [Configure and manage subscription services](/help/send-messages/configure-and-manage-subscription-services.md)
@@ -66,7 +66,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Manage approvals](/help/process-management/manage-approvals.md)
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
-+ Data Management {#data-management}
++ Data management {#data-management}
   + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
 + Connect with other solutions {#connect}
