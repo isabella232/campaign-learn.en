@@ -8,8 +8,6 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Advanced
-hide: yes
-hidefromtoc: yes
 ---
 # Data replication
 
