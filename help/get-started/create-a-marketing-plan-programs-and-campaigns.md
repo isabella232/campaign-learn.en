@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: User
-level: beginner
+level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
 ---
 # Create a marketing plan, programs, and campaigns
