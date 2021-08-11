@@ -24,11 +24,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 <table>
 <tr>
   <td>
-    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
       <img alt="Create a marketing plan, program and campaigns (video)" src="./assets/333810.jpg"/>
     </a>
     <div>
-      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
     <strong>Create a marketing plan</strong>
     </a>
     </div>
