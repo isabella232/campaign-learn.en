@@ -7,7 +7,7 @@ thumbnail: 334460.jpg
 doc-type: feature video
 team: TM
 role: Admin, Developer
-level: Advanced
+level: Experienced
 ---
 # Data replication
 
