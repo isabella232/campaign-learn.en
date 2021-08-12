@@ -9,7 +9,6 @@ activity: use
 team: TM
 role: User
 level: Beginner
-exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 ---
 # Create multi-channel campaigns
 
