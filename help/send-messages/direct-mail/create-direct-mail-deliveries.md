@@ -9,7 +9,6 @@ activity: set-up
 team: WWFRE
 role: User
 level: Beginner
-exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 ---
 # Create direct mail deliveries
 
