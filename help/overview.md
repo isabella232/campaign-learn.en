@@ -20,7 +20,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-[Key capabilities](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+Overview over the [Key capabilities](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)of Adobe Campaign v8.
 
 ## Staff Picks
 
