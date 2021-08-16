@@ -8,6 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 ---
+
 # Create cross-channel campaigns
 
 In a cross-channel campaign, a single marketing communication uses different channels. Data is passed between the channels. The customer receives communication through multiple channels based on, for example, their interaction with the previous communication. 

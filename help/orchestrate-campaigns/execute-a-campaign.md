@@ -10,6 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 ---
+
 # Execute a campaign
 
 Learn how to execute a campaign, review an email delivery and the delivery properties.
