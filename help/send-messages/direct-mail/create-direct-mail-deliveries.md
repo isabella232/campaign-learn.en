@@ -10,6 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 ---
+
 # Create direct mail deliveries
 
 Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format, and execute a [!UICONTROL direct mail ]delivery.
