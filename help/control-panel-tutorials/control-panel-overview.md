@@ -31,11 +31,11 @@ Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key
     <p>
   </td>
   <td>
-    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
       <img alt="Connect to a SFTP Server" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
     <strong>Generate and install GPG keys for data encryption</strong>
     </a>
     </div>

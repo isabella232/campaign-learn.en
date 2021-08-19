@@ -12,7 +12,7 @@ level: Experienced
 
 Learn how to generate and install a public/private key pair on a specified [!DNL Campaign] instance. 
 
-1. [Generate and install GPG keys for data encryption](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [Generate and install GPG keys for data encryption](./generate-and-install-gpg-keys.md)
 2. [Use a GPG key to encrypt data](./use-a-gpg-key-to-encrypt-data.md)
 3. [Decrypt data](./decrypt-data.md)
 

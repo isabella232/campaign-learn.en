@@ -1,6 +1,6 @@
 ---
-title: Generate and install GPG keys for data encryption
-description: Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data.
+title: Generate and install GPG keys
+description: Learn how to generate and install a public/private key pair on a Campaign instance for data encryption.
 feature: Control Panel
 kt: 8517
 thumbnail: 36386.jpg
@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 ---
-# Generate and install GPG keys for data encryption
+# Generate and install GPG keys
 
-Learn how to generate and install a public/private key pair on a specified [!DNL Campaign] instance for the encryption of outbound data.
+Learn how to generate and install a public/private key pair on a [!DNL Campaign] instance for data encryption.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 

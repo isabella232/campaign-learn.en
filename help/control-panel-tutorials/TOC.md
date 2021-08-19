@@ -11,7 +11,7 @@ level: Experienced
 
 # Adobe Campaign Control Panel - Tutorials {#control-panel}
 
-+ [Control Panel Overview](/help/control-panel-tutorials/control-panel-overview.md)
++ [Overview](/help/control-panel-tutorials/control-panel-overview.md)
 + [Get started with the Control Panel](/help/control-panel-tutorials/get-started.md)
 + SFTP management {#sftp-management}
     + [Monitor server capacity](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -22,8 +22,8 @@ level: Experienced
     + [Add IP addresses to allow lists](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
     + [Add URL Permissions](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
     + GPG key management {#gpg-key-management}
-      + [GPG key management - overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generate and install GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Generate and install GPG keys](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Use a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Decrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Performance monitoring {#performance-monitoring}
