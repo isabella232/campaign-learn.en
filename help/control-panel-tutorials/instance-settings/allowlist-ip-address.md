@@ -1,7 +1,6 @@
 ---
-title: Add IP addresses to allowlists
-seo-title: Add IP addresses to allowlists
-description: Learn how to add an IP range to Campaign Classic instances' allowlists and how to remove them from the allowlist using the control panel.
+title: Allow list IP addresses
+description: Learn how to add an IP range to Campaign instances' allowlists and how to remove them from the allowlist using the control panel.
 seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
 feature: Control Panel
 kt: 8515
@@ -12,9 +11,9 @@ team: TM
 role: Admin
 level: Experienced
 ---
-# Add IP addresses to allowlists
+# Allow list IP addresses
 
-The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address must be added to the allowlist:
+The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign  instance is not accessible from various IP addresses. Therefore, an IP address must be added to the allowlist:
 
 * To allow access to the [!DNL Campaign] instance from this IP address
 * To connect an API to your Message Center or marketing instance
@@ -29,7 +28,7 @@ To access the Subdomain Management in Control Panel, go to:
 
 ## Add an IP range to your instance's allowlist
 
-Learn how to add an IP range to Campaign Classic instances' allowlists and how to remove them from the allowlist using the control panel.
+Learn how to add an IP range to Campaign instances' allowlists and how to remove them from the allowlist using the control panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 

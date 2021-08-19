@@ -12,6 +12,7 @@ hide: yes
 hidefromtoc: yes
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
 ---
+
 # Configure the Push Channel using the Experience Platform Mobile SDK 
 
 This video explains how to configure and install the Adobe Experience Platform Mobile SDK.
@@ -21,4 +22,4 @@ This video explains how to configure and install the Adobe Experience Platform M
 
 ## Additional resources
 
-* [Configure Campaign Classic extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Configure Campaign Classic v7 extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)

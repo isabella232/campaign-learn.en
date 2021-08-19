@@ -19,7 +19,7 @@ AMP for Email is a new open-source format that enables developers to create dyna
 
 Currently only Gmail, Outlook, and Mail.ru support the AMP format.
 
-The video below explains how to activate AMP in Adobe Campaign Classic and showcases the usage.
+The video below explains how to activate AMP in Adobe Campaign and showcases the usage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 

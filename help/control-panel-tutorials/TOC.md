@@ -15,11 +15,11 @@ level: Experienced
 + [Get started with the Control Panel](/help/control-panel-tutorials/get-started.md)
 + SFTP management {#sftp-management}
     + [Monitor server capacity](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-    + [Add an IP range to the allowlist](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+    + [Allow list IP ranges](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
     + [Generate a SSH Key](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)  
     + [Connect to an SFTP Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Instance settings {#instance-settings}
-    + [Add IP addresses to allow lists](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+    + [Allow list IP addresses](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
     + [Add URL Permissions](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
     + GPG key management {#gpg-key-management}
       + [Overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)

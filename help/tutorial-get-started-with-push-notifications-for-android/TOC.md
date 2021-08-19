@@ -1,5 +1,5 @@
 ---
-user-guide-title: Get started with push notifications for Android in Campaign Classic
+user-guide-title: Get started with push notifications for Android
 user-guide-description: This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign to an Android app.
 breadcrumb-title: Get started with Push notifications for Android
 breadcrumb-url: /docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html

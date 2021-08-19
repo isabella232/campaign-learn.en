@@ -1,5 +1,5 @@
 ---
-title: Email delivery activity vs. delivery activity in Adobe Campaign Classic
+title: Email delivery activity vs. delivery activity
 description: This video, explains how to configure and use a delivery template.
 feature: Delivery Templates
 kt: 3232
