@@ -20,8 +20,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-Overview over the [Key capabilities](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)of Adobe Campaign v8.
-
 * **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
   *Learn how to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, allow listing IP addresses, or managing GPG keys.*

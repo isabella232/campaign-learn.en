@@ -10,6 +10,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 # Adobe Campaign V8 Tutorials {#tutorials}
 
 + [Overview](/help/overview.md)
++ [Key capabilities of Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
 + Get Started {#getting-started}
   + [Introduction to Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
   + [Install and set up the Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
