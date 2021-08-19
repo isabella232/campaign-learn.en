@@ -18,12 +18,12 @@ Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key
 <table>
 <tr>
 <td>
-    <a href="./getting-started-with-the-control-panel.md">
+    <a href="./get-started.md">
       <img alt="Connect to a SFTP Server" src="./assets/kt-6385.jpg" />
     </a>
     <div>
-      <a href="./getting-started-with-the-control-panel.md">
-    <strong>Get started with the Control Panel</strong>
+      <a href="./get-started.md">
+    <strong>Get started with Control Panel</strong>
     </a>
     </div>
     <p>
