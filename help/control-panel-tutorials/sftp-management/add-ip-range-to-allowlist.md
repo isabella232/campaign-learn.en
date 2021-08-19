@@ -2,7 +2,7 @@
 title: Add an IP range to an allowlist 
 description: Learn how you can add an IP address range to an allowlist.
 feature: Control Panel
-kt:8511
+kt: 8511
 thumbnail: 41775.jpg
 doc-type: feature video
 audience: administrator
