@@ -28,4 +28,4 @@ level: Experienced
       + [Decrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Performance monitoring {#performance-monitoring}
     + [Monitor databases](/help/control-panel-tutorials/performance-monitoring/monitor-databases.md)
-+ [Troubleshoot the Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
++ [Troubleshooting](/help/control-panel-tutorials/troubleshooting.md)

@@ -78,4 +78,5 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring/audit-trail.md)
-  
++ Administration {#administration}
+  + [Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)  
