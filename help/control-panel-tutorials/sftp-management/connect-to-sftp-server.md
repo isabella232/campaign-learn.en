@@ -19,7 +19,7 @@ To access the SFTP Management in Control Panel, go to:
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
   
   or
-* Directly from the URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## How to connect to an SFTP server
 
