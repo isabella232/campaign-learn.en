@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: User
 level: Beginner
+exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
 ---
-
 # Create multi-channel campaigns
 
 In a multi-channel campaign, a single marketing communication uses multiple channels to reach a wider target audience. The channels are independent with no connection between them, meaning customers stays in one channel within one workflow.

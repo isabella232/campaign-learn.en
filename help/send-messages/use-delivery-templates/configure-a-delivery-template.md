@@ -11,6 +11,7 @@ role: Admin
 level: Beginner
 hide: yes
 hidefromtoc: yes
+exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 ---
 # Configure a delivery template
 

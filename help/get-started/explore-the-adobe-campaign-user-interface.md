@@ -9,6 +9,7 @@ activity: understand
 team: TM
 role: User
 level: Beginner
+exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
 ---
 # Explore the Adobe Campaign user interface
 

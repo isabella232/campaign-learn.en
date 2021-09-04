@@ -1,5 +1,5 @@
 ---
-title:  Monitor databases
+title: Monitor databases
 description: Learn how to monitor the database usage of your instances.
 feature: Control Panel
 kt: 8519
@@ -10,6 +10,7 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
+exl-id: 9451117b-f1ae-4d92-b75c-233fe8e76482
 ---
 # Monitor databases
 

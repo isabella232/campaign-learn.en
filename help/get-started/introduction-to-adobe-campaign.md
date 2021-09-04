@@ -9,6 +9,7 @@ activity: understand
 team: WWFRE
 role: User, Admin, Developer
 level: Beginner
+exl-id: b598e7ac-32ba-4fa4-b761-2cc2c9f557b2
 ---
 # Introduction to Adobe Campaign V8
 

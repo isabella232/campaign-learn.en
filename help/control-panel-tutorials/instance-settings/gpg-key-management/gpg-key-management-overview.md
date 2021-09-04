@@ -1,10 +1,11 @@
 ---
 title: GPG key management - Overview
-description: Learn how to generate and install public/private key pairs on a specified [!DNL Campaign] instance. 
+description: Learn how to generate and install public/private key pairs on a specified [!DNL Campaign] instance.
 feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
+exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
 ---
 # GPG key management - Overview
 

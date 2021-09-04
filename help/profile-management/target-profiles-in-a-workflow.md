@@ -8,6 +8,7 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
+exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
 ---
 # Target profiles in a workflow
 

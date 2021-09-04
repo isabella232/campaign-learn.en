@@ -10,6 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
+exl-id: ee27a487-17a4-4e75-9cda-2838943273eb
 ---
 # Decrypt data
 

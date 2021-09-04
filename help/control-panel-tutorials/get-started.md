@@ -9,6 +9,7 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
+exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 ---
 # Get started with the [!UICONTROL Control Panel] {#control-panel}
 
