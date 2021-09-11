@@ -4,7 +4,6 @@ description: Learn how to use the Campaign SOAP API to create a new recipient. U
 feature: API
 kt: 8164
 thumbnail: 336386.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
 ---

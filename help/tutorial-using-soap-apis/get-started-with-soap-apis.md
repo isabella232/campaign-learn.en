@@ -4,7 +4,6 @@ description: Learn how to generate a session token using postman for use in API 
 feature: API
 kt: 8163
 thumbnail: 336639.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
 ---
