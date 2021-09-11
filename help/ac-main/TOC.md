@@ -70,6 +70,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 + Data management {#data-management}
   + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
+  + [Tutorial: Using SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
 + Connect with other solutions {#connect}
   + [Big data management on Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
