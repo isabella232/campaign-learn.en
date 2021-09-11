@@ -4,7 +4,6 @@ description: Learn how to use Adobe Campaign Soap APIs and create an advanced de
 feature: API
 kt: 7772
 thumbnail: 336639.jpg
-doc-type: intro video
 role: Admin, Developer
 level: Experienced
 ---

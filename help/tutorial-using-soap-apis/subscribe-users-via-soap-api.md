@@ -4,7 +4,6 @@ description: Learn how to create a newsletter service and subscribe a recipient 
 feature: API
 kt: 8165
 thumbnail: 336538.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
 ---
