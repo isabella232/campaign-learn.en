@@ -67,6 +67,7 @@ breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
   + [Manage approvals](/help/process-management/manage-approvals.md)
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
+  + [Tutorial: Using SOAP APIs in workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)
 + Data management {#data-management}
   + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
