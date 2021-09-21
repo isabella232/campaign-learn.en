@@ -20,6 +20,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Tutorial: Using SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)
 * **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
   *Learn how to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, allow listing IP addresses, or managing GPG keys.*

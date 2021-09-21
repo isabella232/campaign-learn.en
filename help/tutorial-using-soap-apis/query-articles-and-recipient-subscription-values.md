@@ -16,3 +16,5 @@ level: Beginner
 Learn how to query data using different targeting and filtering dimensions and how to join the outputs using an intersection for the use case of creating an automated content digest delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
+
+Next step: [Join columns and send email delivery](/help/process-management/create-a-content-digest/join-columns-and-send-automated-email-delivery.md))
