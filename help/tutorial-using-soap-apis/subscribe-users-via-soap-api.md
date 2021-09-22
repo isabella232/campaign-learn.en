@@ -14,4 +14,4 @@ Learn how to create a newsletter service and subscribe a recipient using SOAP AP
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12)
 
-Continue to: Step4 - Create a content digest with a workflow](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
+Continue to: [Step4 - Create a content digest with a workflow](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
