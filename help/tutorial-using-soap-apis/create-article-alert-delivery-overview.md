@@ -1,5 +1,5 @@
 ---
-title: Create a "new article alert" email delivery for subscribers - Overview
+title: Create an article alert delivery - Overview
 description: Learn how to create a workflow that alerts recipients of any new articles they've subscribed to via an email delivery.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -8,7 +8,7 @@ team: DOC
 role: User
 level: Beginner
 ---
-# Create a "new article alert" email delivery for subscribers - Overview
+# Create an article alert delivery - Overview
 
 Learn how to create a workflow that alerts recipients of any new articles they've subscribed to via an email delivery.
 
