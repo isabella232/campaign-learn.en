@@ -16,5 +16,5 @@ Learn how to create a workflow that alerts recipients of any new articles they'v
 
 *Query data using different targeting and filtering dimensions and how to join the outputs using an intersection.*
 
-**Step 2:** [Send a delivery to subscribed recipients](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+**Step 2:** [Send a delivery to subscribed recipients](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
 *Learn how to join data two segments, create an article alert email, and personalize it based on data received from an external API.*
