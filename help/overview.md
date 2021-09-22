@@ -20,7 +20,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Tutorial: Using SOAP APIs in workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Tutorial: Use SOAP APIs in workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
   *Learn how to use Adobe Campaign Soap API's and create an advanced delivery workflow based on the data received via the API.*
 * **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 

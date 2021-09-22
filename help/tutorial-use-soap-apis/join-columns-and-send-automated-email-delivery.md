@@ -13,6 +13,6 @@ level: Beginner
 
 # Send an automated email delivery
 
-Learn how to join two segments and add a personalized email delivery,  with the article information received via an API, to the newsletter subscription workflow created in the previous step: [Query articles and recipient subscription values](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md) video.
+Learn how to join two segments and add a personalized email delivery,  with the article information received via an API, to the newsletter subscription workflow created in the previous step: [Query articles and recipient subscription values](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md) video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)

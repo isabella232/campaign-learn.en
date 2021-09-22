@@ -14,4 +14,4 @@ Learn how to generate a session token using Postman for use in API requests.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12)
 
-Next video to watch: [Step 2 - Add recipients and articles using SOAP API request](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
+Next video to watch: [Step 2 - Add recipients and articles use SOAP API request](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)
