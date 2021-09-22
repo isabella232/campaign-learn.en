@@ -7,7 +7,7 @@ breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
 
 # Using Campaign SOAP APIs™ {#using-soap-apis}
 
-+ [Introduction](/help/tutorial-using-soap-apis/introduction.md)
++ [Tutorial - Using Campaign SOAP APIs](/help/tutorial-using-soap-apis/introduction.md)
 + [Step 1 - Get started with SOAP APIs](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)
 + [Step 2 - Add recipients and articles using SOAP API request](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
 + [Step 3 - Subscribe users via SOAP API](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
