@@ -1,6 +1,6 @@
 ---
 title: Send an automated email delivery
-description: 
+description: Learn how to join two segments and add a personalized email delivery, containing a content digest, to the newsletter subscription workflow.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
