@@ -1,6 +1,6 @@
 ---
-title: Create a content digest - Overview
-description: LLearn how to create a workflow that alerts recipients of any new articles they've subscribed to via an email delivery.
+title: Create a "new article alert" email delivery for subscribers - Overview
+description: Learn how to create a workflow that alerts recipients of any new articles they've subscribed to via an email delivery.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
 activity: use
@@ -8,7 +8,7 @@ team: DOC
 role: User
 level: Beginner
 ---
-# Create a content digest - Overview
+# Create a "new article alert" email delivery for subscribers - Overview
 
 Learn how to create a workflow that alerts recipients of any new articles they've subscribed to via an email delivery.
 
@@ -18,4 +18,4 @@ Learn how to create a workflow that alerts recipients of any new articles they'v
 
 **Step 2:** [Join columns and send email delivery](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
 
-*Learn how to add a personalized email delivery, containing the content digest, to the newsletter subscription workflow created in the previous step.*
+*Learn how to join two segments and add a personalized email delivery,  with the article information received via an API, to the newsletter subscription workflow created in the previous step.*
