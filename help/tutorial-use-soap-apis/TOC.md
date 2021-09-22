@@ -14,4 +14,4 @@ breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
 + Step 4 - Create an article alert delivery{#article-alert-email}
   + [Create an article alert delivery](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
   + [Part 1 - Query articles and recipient subscription values](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)  
-  + [Part 2 - Join columns and send email delivery](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+  + [Part 2 - Send a delivery to subscribed recipients](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
