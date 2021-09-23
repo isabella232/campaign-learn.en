@@ -7,6 +7,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
+exl-id: e911cb89-bd27-4424-b4cd-2333321ffc08
 ---
 # Create an article alert delivery - Overview
 

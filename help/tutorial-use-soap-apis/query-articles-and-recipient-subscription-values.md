@@ -9,8 +9,8 @@ activity: use
 team: DOC
 role: User
 level: Beginner
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
 ---
-
 # Query articles and recipient subscription values
 
 Learn how to query data using different targeting and filtering dimensions and how to join the outputs using an intersection for the use case of creating an automated content digest delivery.
