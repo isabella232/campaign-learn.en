@@ -1,11 +1,11 @@
 ---
-user-guide-title: Using Campaign SOAP APIs
-user-guide-description: Learn how to use Adobe Campaign Soap API's and create an advanced delivery workflow.
-breadcrumb-title: Using Campaign SOAP APIs
+user-guide-title: Use SOAP APIs
+user-guide-description: Learn how to use Adobe Campaign's Soap API's and create an advanced delivery workflow.
+breadcrumb-title: Use  SOAP APIs
 breadcrumb-url: /campaign-learn/use-soap-apis/introduction.html
 ---
 
-# Using Campaign SOAP APIs™ {#using-soap-apis}
+# Using Campaign SOAP APIs™ {#use-soap-apis}
 
 + [Tutorial - Use SOAP APIs](/help/tutorial-use-soap-apis/introduction.md)
 + [Step 1 - Get started with SOAP APIs](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)
