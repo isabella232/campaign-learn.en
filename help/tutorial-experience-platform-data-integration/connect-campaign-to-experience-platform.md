@@ -7,8 +7,8 @@ thumbnail: 336902.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Admin, Developer
-level: Experienced
+role: Admin
+level: Beginner, Experienced
 ---
 
 # Connect Campaign to Experience Platform as a destination
@@ -16,6 +16,3 @@ level: Experienced
 Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12)
-
-## Additional resources
-
