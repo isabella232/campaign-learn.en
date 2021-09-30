@@ -1,0 +1,24 @@
+---
+title: Connect Campaign data using a source on Adobe Experience Platform
+description: Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
+feature: Data Import/Export, Data Management
+kt: 8159
+thumbnail: 336642.jpg
+doc-type: feature video
+activity: use
+team: TM
+role: Developer
+level: Experienced
+---
+
+# Connect Campaign data using a source on Adobe Experience Platform
+
+Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
+
+>[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
+
+## Additional resources
+
+* [Connect Campaign to Experience Platform as a destination](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
+* [Create a campaign logs schema and dataset in Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
+  

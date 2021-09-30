@@ -57,7 +57,6 @@ logInfo("===================");
 
  ```
 
- ## Next video: 
+## Next video
 
  [Create an export workflow (Part 2) - Extract, format, and save data to an external account](extract-format-save-data-to-external-account.md)
- 
