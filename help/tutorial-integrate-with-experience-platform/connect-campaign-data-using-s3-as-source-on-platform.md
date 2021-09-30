@@ -1,5 +1,5 @@
 ---
-title: Connect Campaign data using a source on Adobe Experience Platform
+title: Connect Campaign data using S3 as source on Adobe Experience Platform
 description: Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -11,7 +11,7 @@ role: Developer
 level: Experienced
 ---
 
-# Connect Campaign data using a source on Adobe Experience Platform
+# Connect Campaign data using S3 as source on Adobe Experience Platform
 
 Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
 

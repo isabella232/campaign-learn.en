@@ -22,29 +22,27 @@ In this second part of the Create an Export Workflow tutorial, you learn how to 
 JavaScript: Save date
 
  ```java
-logInfo("=====================")
-logInfo("Starting Execution...")
+  logInfo("=====================")
+  logInfo("Starting Execution...")
 
-optionName = vars.OPTION_NAME;
-logInfo("optionName: " + optionName);
-logInfo("NEXT Run Date: " + vars.nextRunTime);
- 
-//Make sure we have valid values before saving for next run
-if (vars.nextRunTime == null || optionName == null){
+  optionName = vars.OPTION_NAME;
+  logInfo("optionName: " + optionName);
+  logInfo("NEXT Run Date: " + vars.nextRunTime);
+  
+  //Make sure we have valid values before saving for next run
+  if (vars.nextRunTime == null || optionName == null){
 
-  logInfo("Unable to find non-null values for optionName/nextRunTime! Throwing Error.")
-  throw new Error('Unable to find non-null values for optionName/nextRunTime!  Ending Execution.');
+    logInfo("Unable to find non-null values for optionName/nextRunTime! Throwing Error.")
+    throw new Error('Unable to find non-null values for optionName/nextRunTime!  Ending Execution.');
 
-} else {
+  } else {
 
-  // Save the nextRunTime to the database to establish starting point for next run.
-  setOption(optionName, vars.nextRunTime);
-  logInfo("Date Saved. [" + optionName + "] = [" + vars.lastRunTime + "]")
+    // Save the nextRunTime to the database to establish starting point for next run.
+    setOption(optionName, vars.nextRunTime);
+    logInfo("Date Saved. [" + optionName + "] = [" + vars.lastRunTime + "]")
 
-}
+  }
 
-logInfo("Finished Execution.") 
-logInfo("===================")
+  logInfo("Finished Execution.") 
+  logInfo("===================")
  ```
-
- 
