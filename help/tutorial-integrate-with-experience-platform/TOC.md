@@ -7,7 +7,7 @@ breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.
 
 # Integrate with Experience Platform {#experience-platform-data-integration}
 
-+ [Introduction](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [Overview](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [Import Experience Platform Data Into Campaign]{#import-experience-platform-data-into-campaign}
   + [Connect Campaign to Experience Platform as a destination](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
   + [Import recipient data from Experience Platform and send an email](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
