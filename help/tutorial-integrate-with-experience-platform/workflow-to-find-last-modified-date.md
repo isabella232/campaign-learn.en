@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
+exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 ---
-
 # Create an export workflow (Part 1) - Find the last modified date for a list of recipients
 
 In this first part of the Create an Export Workflow tutorial, learn how to create a workflow that finds the last modified date for a list of recipients created from an Experience Platform segment.
