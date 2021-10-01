@@ -1,6 +1,6 @@
 ---
 title: Create an export workflow (Part 2) - Extract, format, and save data to an external account
-description: In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account. 
+description: In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
 ---
-
 # Create an export workflow (Part 2): Extract, format, and save data to an external account
 
 In this second part of the Create an Export Workflow tutorial, you learn how to format the data for export and how to save the data to an external account.

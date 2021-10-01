@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
+exl-id: bdfcf733-dd4b-42d1-a063-2a72f0111cca
 ---
-
 # Connect Campaign to Experience Platform as a destination
 
 Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.

@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
+exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
 ---
-
 # Create a campaign logs schema and dataset in Adobe Experience Platform
 
 Learn how to create a schema and dataset in Adobe Experience Platform that can be used to ingest campaign logs data into Platform.

@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
+exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
 ---
-
 # Connect Campaign data using S3 as source on Adobe Experience Platform
 
 Learn how to ingest data using a source connector in Experience Platform to update the profile data with exported campaign logs.
@@ -21,4 +21,3 @@ Learn how to ingest data using a source connector in Experience Platform to upda
 
 * [Connect Campaign to Experience Platform as a destination](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
 * [Create a campaign logs schema and dataset in Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
-  
