@@ -2,7 +2,6 @@
 user-guide-title: Integrate with Experience Platform
 user-guide-description: Learn how to import and export Campaign and Experience Cloud data, allowing for the communication between the two solutions.
 breadcrumb-title: Integrate with Experience Platform
-breadcrumb-url: /campaign-learn/integrate-with-experience-platform/overview.html
 ---
 
 # Integrate with Experience Platform {#integrate-with-experience-platform}
