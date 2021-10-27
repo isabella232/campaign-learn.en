@@ -20,6 +20,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)**
+
+  *Learn how to create a new schema and extend an existing schema.*
+  
 * **[Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
   
   *Learn how to import and export Campaign and Experience Cloud data, allowing for the communication between the two solutions.*
@@ -28,9 +32,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   
   *Learn how to use Adobe Campaign Soap API's and create an advanced delivery workflow based on the data received via the API.*
   
-* **[Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
-
-  *Learn how to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, allow listing IP addresses, or managing GPG keys.*
 
 ## Staff Picks
 

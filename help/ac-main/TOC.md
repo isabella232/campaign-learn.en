@@ -67,6 +67,7 @@ breadcrumb-title: Tutorials
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
 + Data management {#data-management}
+  + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
   + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
