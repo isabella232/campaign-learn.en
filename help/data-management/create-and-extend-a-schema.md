@@ -8,6 +8,7 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
+exl-id: 40e5f5a3-e267-4a65-8590-32958bc67764
 ---
 # Create and extend a schema
 
