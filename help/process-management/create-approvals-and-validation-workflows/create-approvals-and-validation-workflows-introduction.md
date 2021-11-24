@@ -1,5 +1,5 @@
 ---
-title: Create validation workflows - Introduction
+title: Create approvals and validation workflows - Introduction
 description: Learn how to configure different approval validation workflows.
 feature: Workflows, Approvals
 doc-type: feature video
@@ -9,9 +9,9 @@ role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 ---
-# Create validation workflows - Introduction
+# Create approvals and validation workflows - Introduction
 
-Adobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction, and budget approvals.
+Adobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction, and budget approvals. Learn how to [manage approvals](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md).
 
 ## Prerequisite {#prerequisite}
 
@@ -21,8 +21,6 @@ Before enabling approval steps, the marketing team must define individual review
 * To enable campaign developers to select the reviewers as approvers in a campaign or a delivery, the reviewers and reviewer groups must be configured in Adobe Campaign by an administrator.
 
 ## Configuring approvals {#configuring-approvals}
-
-Campaign offers three different levels for approvals:
 
 1. [Configure approvals for campaigns](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md): 
     If you have the same set of reviewers for all deliveries in your campaign workflow, apply the campaign approval functionality, by setting up approvals and reviewers at the campaign level. The approval tasks and reviewers are pushed down to each delivery activity of your workflow once the workflow is executed.
