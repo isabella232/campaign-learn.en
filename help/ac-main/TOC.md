@@ -36,7 +36,7 @@ breadcrumb-title: Tutorials
   + [Configure Landing Pages](/help/content-creation/configure-landingpages.md)
 + Send messages{#sending-messages}
   + Email {#email}
-    + [Send and validate proofs for an email delivery ](/help/send-messages/email/send-and-validate-proofs.md)
+    + [Send and validate proofs for an email delivery](/help/send-messages/email/send-and-validate-proofs.md)
     + [Use control groups](/help/send-messages/email/use-control-groups.md)
     + [Troubleshoot email delivery issues](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
     + [Design emails for deliverability](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -64,8 +64,6 @@ breadcrumb-title: Tutorials
     + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
     + [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
   + Approvals and validation workflows {#create-approvals-and-validation-workflows}
-  + [How to use the update list activity](/help/process-management/use-the-update-list-activity.md)
-  + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
     + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
     + [Manage approvals](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
     + [Configure approvals for campaigns](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
