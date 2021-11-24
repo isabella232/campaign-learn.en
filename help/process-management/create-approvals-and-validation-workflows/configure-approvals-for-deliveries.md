@@ -8,8 +8,8 @@ doc-type: feature video
 activity: use
 role: User
 level: Beginner
+exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
 ---
-
 # Configure approvals for deliveries 
 
 Learn how to configure approvals and reviewers at the delivery level.  
