@@ -59,7 +59,7 @@ breadcrumb-title: Tutorials
 + Process management and automation{#process-management}
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
   + [Create recurring and continuous deliveries](/help/process-management/recurring-deliveries.md)
-  + Targeting workflows {#targeting workflows}
+  + Targeting workflows {#targeting-workflows}
     + [Create targeting workflows](/help/process-management/create-a-targeting-workflow.md)
     + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
     + [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -68,9 +68,9 @@ breadcrumb-title: Tutorials
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
     + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
     + [Manage approvals](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-    + [Configure approvals for campaigns](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-    + [Configure approvals for deliveries](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-    + [Create an approval process in a workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+    + [Configure approvals for campaigns](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+    + [Configure approvals for deliveries](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+    + [Create an approval activity in a workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
   + [Manage approvals](/help/process-management/manage-approvals.md)
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
