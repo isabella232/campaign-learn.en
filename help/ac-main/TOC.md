@@ -66,7 +66,7 @@ breadcrumb-title: Tutorials
   + [Manage approvals](/help/process-management/manage-approvals.md)
   + [Use the update list activity](/help/process-management/use-the-update-list-activity.md)
   + [Configure enrichment activities](/help/process-management/enrichment-activity.md)
-  + Create validation workflows {#create-validation-workflows}
+  + Create approval validation workflows {#create-validation-workflows}
     + [Configure approvals for campaigns](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
     + [Configure approvals for deliveries](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
     + [Create an approval process in a workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
