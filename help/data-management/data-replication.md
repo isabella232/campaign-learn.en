@@ -18,4 +18,5 @@ Understand which databases Adobe Campaign V8 uses, why data is being replicated,
 
 ## Additional resources
 
+* [API staging mechanism (video)](/help/data-management/api-staging-mechanism.md)
 * [Data replication (Documentation)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=en#data-replication)

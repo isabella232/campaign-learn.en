@@ -75,6 +75,7 @@ breadcrumb-title: Tutorials
   + [Create and extend a schema](/help/data-management/create-and-extend-a-schema.md)
   + [Import profiles](/help/data-management/import-profiles.md)
   + [Data replication](/help/data-management/data-replication.md)
+  + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
 + Connect with other solutions {#connect}
   + [Big data management on Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
