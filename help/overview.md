@@ -97,6 +97,4 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 </table>
 
-## Additional resources
-
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
+Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-v8.html) for more details on this feature.
