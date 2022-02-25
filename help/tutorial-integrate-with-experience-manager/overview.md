@@ -11,8 +11,8 @@ recommendations: noDisplay
 ---
 # Integrate with Experience Manager - Overview
 
-Learn how to connect Adobe Campaign with Adobe Experience Manager to allow you to manage email delivery templates, assets, and forms in Experience Manager.
+Connect Adobe Campaign with Adobe Experience Manager to be able to manage email delivery templates, assets, and forms in Experience Manager.
 
- The following video gives you an overview of the course and what you can expect to learn.
+The following video explains what you will learn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12)
