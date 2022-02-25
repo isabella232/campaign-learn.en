@@ -21,8 +21,8 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-*  **[Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
-
+* **[Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+  
   *Learn how to connect Adobe Campaign with Adobe Experience Manager to allow you to manage email delivery templates, assets, and forms in Experience Manager.*  
 
 * **[Change the data source](/help/data-management/change-data-source.md)**
