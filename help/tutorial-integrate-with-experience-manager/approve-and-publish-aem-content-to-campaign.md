@@ -1,5 +1,5 @@
 ---
-title: Approve and publish an Experience Manager page to Campaign
+title: Approve and publish an Experience Manager content to Campaign
 description: Learn how to create a newsletter in Experience Manager and how to approve and publish it to Campaign.
 feature: Experience Manager Integration
 kt: 9597

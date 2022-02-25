@@ -82,7 +82,6 @@ breadcrumb-title: Tutorials
 + Connect with other solutions {#connect}
   + [Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)
   + [Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
-  + Integrate with Experience Manager {#AEM}
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
   + [Access built-in reports](/help/reporting/access-built-in-reports.md)
