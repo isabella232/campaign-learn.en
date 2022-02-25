@@ -13,7 +13,7 @@ recommendations: noDisplay, noCatalog
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8.
 
 >[!INFO]
-> Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
 > Campaign v8 is currently only available as a Managed Cloud Service, and cannot be deployed on an on-premise or hybrid environments. Migration from an existing Campaign Classic v7 environment is not yet available.
@@ -21,16 +21,18 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+*  **[Integrate with Experience Manager ](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en))**
+
+  *Learn how to connect Adobe Campaign with Adobe Experience Manager to allow you to manage email delivery templates, assets, and forms in Experience Manager.*  
+
 * **[Change the data source](/help/data-management/change-data-source.md)**
+
   *Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.* 
   
 * **[Fundamentals of data management with workflows](/help/data-management/data-management-fundamentals.md)**
 
   *Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.*
 
-* **[API staging mechanism with FFDA](/help/data-management/api-staging-mechanism.md)**
-
-  *Learn how the API staging mechanism with full FDA works.*  
 
 ## Staff Picks
 
