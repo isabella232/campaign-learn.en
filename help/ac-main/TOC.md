@@ -80,6 +80,7 @@ breadcrumb-title: Tutorials
   + [API staging mechanism](/help/data-management/api-staging-mechanism.md)
   + [Tutorial: Use SOAP APIs](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
 + Connect with other solutions {#connect}
+  + [Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)
   + [Integrate with Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
   + Integrate with Experience Manager {#AEM}
   + [Integrate with Dynamics 365](/help/connect/dynamics365-integration.md)
