@@ -9,6 +9,7 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
+exl-id: 44b12535-775e-4b67-ae75-4cbdc4ce79fe
 ---
 # Configure Campaign for the Experience Manager integration
 

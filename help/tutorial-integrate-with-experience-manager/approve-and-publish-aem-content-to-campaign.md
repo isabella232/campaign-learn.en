@@ -9,6 +9,7 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
+exl-id: 09df20fc-b848-4cbd-aabc-8fdb1f6b22ea
 ---
 # Approve and publish an Experience Manager page to Campaign
 
