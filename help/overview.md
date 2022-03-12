@@ -21,17 +21,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Integrate with Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+* **[Integrate with Adobe Target](/help/connect/target-integration.md)
+
+  *Learn how to personalize a delivery with dynamic content served from Adobe Target.*
+
+* **[Integrate with Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
   
   *Learn how to connect Adobe Campaign with Adobe Experience Manager to allow you to manage email delivery templates, assets, and forms in Experience Manager.*  
 
 * **[Change the data source](/help/data-management/change-data-source.md)**
 
-  *Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.* 
-  
-* **[Fundamentals of data management with workflows](/help/data-management/data-management-fundamentals.md)**
-
-  *Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.*
+  *Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.*
 
 
 ## Staff Picks
@@ -91,10 +91,36 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.</em>
+    <em>Learn how to generate a descriptive analysis report from a workflow.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Fundamentals of data management with workflows" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Fundamentals of data management with workflows</strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="API staging mechanism with FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>API staging mechanism with FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Learn how the API staging mechanism with full FDA works.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-v8.html) for more details on this feature.
