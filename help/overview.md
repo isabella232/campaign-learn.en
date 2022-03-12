@@ -21,7 +21,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Integrate with Adobe Target](/help/connect/target-integration.md)
+* **[Integrate with Adobe Target](/help/connect/target-integration.md)**
 
   *Learn how to personalize a delivery with dynamic content served from Adobe Target.*
 
@@ -59,7 +59,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Create and design email deliveries</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>Understand the process of creating an email delivery and learn how to design and personalize email content.
 </em>
