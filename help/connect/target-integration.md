@@ -3,9 +3,9 @@ title: Integrate with Adobe Target
 description: Learn how to personalize a delivery with dynamic content served from Adobe Target.
 feature: Target Integration
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 kt: 9601
-thumbnail: 341030.jpeg
+thumbnail: 341030.jpg
 ---
 
 # Integrate with Adobe Target
