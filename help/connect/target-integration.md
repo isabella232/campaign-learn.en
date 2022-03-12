@@ -10,6 +10,6 @@ thumbnail: 341030.jpg
 
 # Integrate with Adobe Target
 
-Learn how to , Learn how to personalize a delivery with dynamic content served from Adobe Target.
+Learn how to personalize a delivery with dynamic content served from Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
