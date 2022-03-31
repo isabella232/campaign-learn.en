@@ -19,6 +19,7 @@ breadcrumb-title: Tutorials
   + [Create event triggered campaigns](/help/get-started/create-event-triggered-campaigns.md)
 + Profile management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
+  + [Import profiles](/help/profile-management/import-profiles.md)
   + [Target profiles in a workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Campaign orchestration {#campaign-orchestration}
   + [Execute a campaign](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -60,7 +61,7 @@ breadcrumb-title: Tutorials
   + [Create a Workflow](/help/process-management/create-a-workflow.md)
   + [Create recurring and continuous deliveries](/help/process-management/recurring-deliveries.md)
   + Targeting workflows {#targeting-workflows}
-    + [Create targeting workflows](/help/process-management/create-a-targeting-workflow.md)
+    + [Create a targeting workflow](/help/process-management/create-a-targeting-workflow.md)
     + [Refine targets by combining query results](/help/process-management/refine-targets-by-combining-query-results.md)
     + [Refine targets by excluding query results](/help/process-management/refine-targets-by-excluding-query-results.md)
   + Approvals and validation workflows {#create-approvals-and-validation-workflows}

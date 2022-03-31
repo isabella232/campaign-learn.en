@@ -4,6 +4,7 @@ description: Learn how to define several delivery targets using a targeting work
 feature: Workflows, Targeting Activity, Query Editor
 kt: 7980
 doc-type: feature video
+Thumbnail: 342083.jpg
 activity: use
 team: DOC
 role: User
@@ -16,4 +17,4 @@ Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns 
 
 Learn how to define several delivery targets using a targeting workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12)
